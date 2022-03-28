@@ -1,0 +1,14 @@
+# C, C++ Template
+
+# vscode stuff
+.vscode/
+
+# Executables
+*.exe
+*.out
+
+
+# Python Template
+
+#Pycharm stuff:
+.idea/

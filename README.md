@@ -3,13 +3,7 @@
 ### Index:
 
 - [Prime Factorization - C](./c/prime_factorization.c)
-    <details>
-    <summary>usage </summary>
-    <br>
-    <image alt="fact_usage_c.png" src="./screenshots/fact_usage_c.png">
-    </details>
-
-    <details>
+    <details open>
     <summary>note </summary>
     <br>
     Though this C-version is much faster than Python one,<br>
@@ -29,7 +23,7 @@
     ```
     <br>
     The output file size, however, drastically increases as the input number grows.<br>
-    Therefore it is not reasonable to utilize precalcuated prime numbers<br>
+    Therefore it is not reasonable to utilize precalculated prime numbers<br>
     because it requires considerable storage memory.<br><br>
     <table>
         <thead>
@@ -72,11 +66,32 @@
     </table>
     </details>
 
+    <details>
+    <summary>usage </summary>
+    <br>
+    <image alt="fact_usage_c.png" src="./screenshots/fact_usage_c.png">
+    </details>
+
+#
+
 - [Prime Factorization - Python](./python/prime_factorization.py)
     <details>
     <summary>usage </summary>
     <br>
     <image alt="fact_usage_py.png" src="./screenshots/fact_usage_py.png">
     </details>
+
+#
+
+- [Doubly Linked List - C++](./cpp/doubly_linked_list.cpp)
+    <details open>
+    <summary>output </summary>
+    <br>
+    <image alt="doubly_linked_list_cpp.png" src="./screenshots/doubly_linked_list_cpp.png">
+    </details>
+
+- [Linked List - C](./c/linked_list.c)
+- [Tree - C](./c/tree.c)
+
 
 This repository is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)

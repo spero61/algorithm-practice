@@ -90,6 +90,14 @@
     <image alt="doubly_linked_list_cpp.png" src="./screenshots/doubly_linked_list_cpp.png">
     </details>
 
+
+- [Stack and Heap - C++](./cpp/stack_and_heap.cpp)
+    <details open>
+    <summary>output </summary>
+    <br>
+    <image alt="stack_and_heap.png" src="./screenshots/stack_and_heap.png">
+    </details>
+
 - [Linked List - C](./c/linked_list.c)
 - [Tree - C](./c/tree.c)
 

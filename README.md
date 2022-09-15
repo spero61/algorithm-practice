@@ -98,11 +98,14 @@
     <image alt="stack_and_heap.png" src="./screenshots/stack_and_heap.png">
     </details>
 
+### Simple implementation of Basic Data Structure
 - [Linked List - C](./c/linked_list.c)
 - [Linked List - Dart](./dart/linked_list.dart)
+- [Stack - Dart](./dart/stack.dart)
 - [Tree - C](./c/tree.c)
+
+### Etc
 - [Palindrome - C++](./cpp/palindrome.cpp)
 - [Palindrome - Python](./python/palindrome.py)
-
 
 This repository is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)

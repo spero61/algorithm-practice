@@ -99,6 +99,7 @@
     </details>
 
 - [Linked List - C](./c/linked_list.c)
+- [Linked List - Dart](./dart/linked_list.dart)
 - [Tree - C](./c/tree.c)
 - [Palindrome - C++](./cpp/palindrome.cpp)
 - [Palindrome - Python](./python/palindrome.py)
